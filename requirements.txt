@@ -1,0 +1,15 @@
+streamlit_folium==0.1.0
+streamlit==0.68.0
+nsetools==1.0.11
+timedelta==0.0.0
+pandas==1.1.3
+newsapi_python==0.2.6
+folium==0.11.0
+matplotlib==3.3.2
+numpy==1.19.2
+pycountry==20.7.3
+nsepy==0.8
+seaborn==0.11.0
+plotly==4.11.0
+newsapi==0.1.1
+wbdata==0.3.0
